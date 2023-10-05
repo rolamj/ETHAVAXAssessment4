@@ -14,10 +14,10 @@ contract DegenToken {
         symbol = "DGN";
         decimals = 10;
         totalSupply = 0;
-        storeNftAccessory(0, "Wood Sword", 50);
-        storeNftAccessory(1, "Stone Sword", 100);
-        storeNftAccessory(2, "Iron Sword", 200);
-        storeNftAccessory(3, "Gold Sword", 250);
+        storeNftAccessory(0, "Diamond Sword", 50);
+        storeNftAccessory(1, "Sapphire Sword", 100);
+        storeNftAccessory(2, "Jade Sword", 200);
+        storeNftAccessory(3, "Crystal Sword", 250);
     }
 
     modifier ownerOnly() {
