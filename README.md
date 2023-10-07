@@ -47,19 +47,19 @@ This program is a ERC20 token deployed on Avalanche Fuji Testnet and written in 
 
 ### Executing program
 
-(0) Make sure you are connected to the Avalanche Fuji Testnet in your Metamask and have some test AVAX.
+(1) Make sure you are connected to the Avalanche Fuji Testnet in your Metamask and have some test AVAX.
 
-(1) To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
+(2) To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-(2) Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension. Copy and paste the code from DegenToken.sol file into your file:
+(3) Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension. Copy and paste the code from DegenToken.sol file into your file:
 
-(3) To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to latest solidity version (or another compatible version), and then click on the "Compile" button.
+(4) To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to latest solidity version (or another compatible version), and then click on the "Compile" button.
 
-(4) After the code is compiled, go to the "Deploy & run transactions" tab and select injected provider as the environment and connect your Metamask account with the test AVAX.
+(5) After the code is compiled, go to the "Deploy & run transactions" tab and select injected provider as the environment and connect your Metamask account with the test AVAX.
 
-(5) Select the your contract from the dropdown menu, and then click on the "Deploy" button.
+(6) Select the your contract from the dropdown menu, and then click on the "Deploy" button.
 
-(76) Once the contract is deployed, you can interact with it by calling the mint, burn function, transfer and much more.
+(7) Once the contract is deployed, you can interact with it by calling the mint, burn function, transfer and much more.
 
 ## Author
 
